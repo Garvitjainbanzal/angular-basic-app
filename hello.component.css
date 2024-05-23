@@ -1,0 +1,6 @@
+.hi-text {
+  color: purple;
+  background-color: #ffffe0; /* Mild yellow */
+  padding: 10px; /* Optional: for some padding */
+  text-align: center; /* Optional: to center the text */
+}
